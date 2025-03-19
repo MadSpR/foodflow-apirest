@@ -1,2 +1,2 @@
 # foodflow-apirest
-CRUD app using Spring Boot
+backend for an API REST CRUD app using Spring Boot
